@@ -1,0 +1,100 @@
+{
+    "animales": [
+        {
+            "edad": 0,
+            "tipo": "this.ELEFANTE"
+        },
+        {
+            "edad": 23,
+            "tipo": "this.ELEFANTE"
+        },
+        {
+            "edad": 33,
+            "tipo": "this.ELEFANTE"
+        },
+        {
+            "edad": 27,
+            "tipo": "this.ELEFANTE"
+        },
+        {
+            "edad": 11,
+            "tipo": "this.ELEFANTE"
+        },
+        {
+            "edad": 2,
+            "tipo": "this.ELEFANTE"
+        },
+        {
+            "edad": 2,
+            "tipo": "this.ELEFANTE"
+        },
+        {
+            "edad": 2,
+            "tipo": "this.ELEFANTE"
+        },
+        {
+            "edad": 7,
+            "tipo": "this.ELEFANTE"
+        },
+        {
+            "edad": 1,
+            "tipo": "this.ELEFANTE"
+        },
+        {
+            "edad": 1,
+            "tipo": "this.JIRAFA"
+        },
+        {
+            "edad": 2,
+            "tipo": "this.JIRAFA"
+        },
+        {
+            "edad": 3,
+            "tipo": "this.JIRAFA"
+        },
+        {
+            "edad": 1,
+            "tipo": "this.JIRAFA"
+        },
+        {
+            "edad": 3,
+            "tipo": "this.JIRAFA"
+        },
+        {
+            "edad": 13,
+            "tipo": "this.JIRAFA"
+        },
+        {
+            "edad": 2,
+            "tipo": "this.JIRAFA"
+        },
+        {
+            "edad": 23,
+            "tipo": "this.JIRAFA"
+        },
+        {
+            "edad": 1,
+            "tipo": "this.CHIMPANCE"
+        },
+        {
+            "edad": 2,
+            "tipo": "this.CHIMPANCE"
+        },
+        {
+            "edad": 3,
+            "tipo": "this.CHIMPANCE"
+        },
+        {
+            "edad": 0,
+            "tipo": "this.CHIMPANCE"
+        },
+        {
+            "edad": 2,
+            "tipo": "this.CHIMPANCE"
+        },
+        {
+            "edad": 5,
+            "tipo": "this.CHIMPANCE"
+        }
+    ]
+}
