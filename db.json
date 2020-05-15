@@ -2,99 +2,99 @@
     "animales": [
         {
             "edad": 0,
-            "tipo": "this.ELEFANTE"
+            "tipo": "ELEFANTE"
         },
         {
             "edad": 23,
-            "tipo": "this.ELEFANTE"
+            "tipo": "ELEFANTE"
         },
         {
             "edad": 33,
-            "tipo": "this.ELEFANTE"
+            "tipo": "ELEFANTE"
         },
         {
             "edad": 27,
-            "tipo": "this.ELEFANTE"
+            "tipo": "ELEFANTE"
         },
         {
             "edad": 11,
-            "tipo": "this.ELEFANTE"
+            "tipo": "ELEFANTE"
         },
         {
             "edad": 2,
-            "tipo": "this.ELEFANTE"
+            "tipo": "ELEFANTE"
         },
         {
             "edad": 2,
-            "tipo": "this.ELEFANTE"
+            "tipo": "ELEFANTE"
         },
         {
             "edad": 2,
-            "tipo": "this.ELEFANTE"
+            "tipo": "ELEFANTE"
         },
         {
             "edad": 7,
-            "tipo": "this.ELEFANTE"
+            "tipo": "ELEFANTE"
         },
         {
             "edad": 1,
-            "tipo": "this.ELEFANTE"
+            "tipo": "ELEFANTE"
         },
         {
             "edad": 1,
-            "tipo": "this.JIRAFA"
+            "tipo": "JIRAFA"
         },
         {
             "edad": 2,
-            "tipo": "this.JIRAFA"
+            "tipo": "JIRAFA"
         },
         {
             "edad": 3,
-            "tipo": "this.JIRAFA"
+            "tipo": "JIRAFA"
         },
         {
             "edad": 1,
-            "tipo": "this.JIRAFA"
+            "tipo": "JIRAFA"
         },
         {
             "edad": 3,
-            "tipo": "this.JIRAFA"
+            "tipo": "JIRAFA"
         },
         {
             "edad": 13,
-            "tipo": "this.JIRAFA"
+            "tipo": "JIRAFA"
         },
         {
             "edad": 2,
-            "tipo": "this.JIRAFA"
+            "tipo": "JIRAFA"
         },
         {
             "edad": 23,
-            "tipo": "this.JIRAFA"
+            "tipo": "JIRAFA"
         },
         {
             "edad": 1,
-            "tipo": "this.CHIMPANCE"
+            "tipo": "CHIMPANCE"
         },
         {
             "edad": 2,
-            "tipo": "this.CHIMPANCE"
+            "tipo": "CHIMPANCE"
         },
         {
             "edad": 3,
-            "tipo": "this.CHIMPANCE"
+            "tipo": "CHIMPANCE"
         },
         {
             "edad": 0,
-            "tipo": "this.CHIMPANCE"
+            "tipo": "CHIMPANCE"
         },
         {
             "edad": 2,
-            "tipo": "this.CHIMPANCE"
+            "tipo": "CHIMPANCE"
         },
         {
             "edad": 5,
-            "tipo": "this.CHIMPANCE"
+            "tipo": "CHIMPANCE"
         }
     ]
 }
